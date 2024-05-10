@@ -1,2 +1,3 @@
 # RCE-IFE
-[![DOI](https://zenodo.org/badge/797664260.svg)](https://zenodo.org/doi/10.5281/zenodo.11167402)
+[![DOI](https://zenodo.org/badge/797664260.svg)](https://zenodo.org/doi/10.5281/zenodo.11167402)<br/>
+<p align="justify">Recursive Cluster Elimination with Intra-Cluster Feature Elimination (RCE-IFE) can be considered as an extension of Support Vector Machine - Rcecurtsive Cluster Elimination (SVM-RCE) approach. RCE-IFE differs from SVM-RCE in that it includes both cluster elimination and feature removal. Cluster elimination followed by intra-cluster elimination contributes to further reduction in feature subset size, improvement in model performance and decrease in execution time.</p> 
